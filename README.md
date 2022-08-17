@@ -1,4 +1,4 @@
-# test
+# Color Palette
 
 A new Flutter project.
 
