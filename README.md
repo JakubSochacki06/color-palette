@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/BR0KK3R/color-palette/blob/master/Screens/logo.png?raw=true)
 
 
 # Color Palette
