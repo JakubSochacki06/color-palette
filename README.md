@@ -51,7 +51,6 @@ Coming soon...
 
 ## Screenshots
 
-![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen1.jpg?raw=true)
 ![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen2.jpg?raw=true)
 ![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen3.jpg?raw=true)
 ![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen4.jpg?raw=true)
