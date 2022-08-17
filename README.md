@@ -13,18 +13,6 @@ Simple project made in flutter
 - [@JakubSochacki06](https://github.com/JakubSochacki06)
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen2.jpg?raw=true)
-![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen3.jpg?raw=true)
-![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen4.jpg?raw=true)
-![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen8.jpg?raw=true)
-
-## Demo
-
-Coming soon...
-
-
 ## FAQ
 
 #### **Is it compatible with all mobile devices?**
@@ -55,6 +43,19 @@ Yes, we are planning to add few new features soon.
 
 If you have any feedback, please reach out to us at [Tellonym](https://tellonym.me/user.6007510)
 
+
+## Demo
+
+Coming soon...
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen1.jpg?raw=true)
+![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen2.jpg?raw=true)
+![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen3.jpg?raw=true)
+![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen4.jpg?raw=true)
+![App Screenshot](https://github.com/BR0KK3R/color-palette/blob/master/Screens/screen8.jpg?raw=true)
 
 ## Lessons Learned
 
