@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/BR0KK3R/color-palette/blob/master/Screens/logo.png?raw=true)
+![Logo](https://github.com/BR0KK3R/color-palette/blob/master/Screens/Nowy%20projekt.png?raw=true)
 
 
 # Color Palette
